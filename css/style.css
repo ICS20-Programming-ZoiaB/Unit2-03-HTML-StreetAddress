@@ -28,11 +28,3 @@ div {
   color: #8f0000;
   margin: 5px;
 }
-
-div.footer {
-  font-size: 9pt;
-  font-style: italic;
-  line-height: 12pt;
-  text-align: center;
-  padding-top: 30pt;
-}
